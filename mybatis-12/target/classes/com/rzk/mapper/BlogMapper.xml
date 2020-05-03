@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE mapper
+        PUBLIC "-//mybatis.org//DTD Config 3.0//EN"
+        "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="com.rzk.mapper.BlogMapper">
+
+    <insert id="addBlog" parameterType="Blog">
+
+        insert into mybatis.blog(id, title, author, create_time, views)
+         values(#{id},#{title},#{author},#{createTime},#{views})
+
+    </insert>
+    <!--查询bolg-->
+    <select id="queryBlogIF" parameterType="map" resultType="Blog">
+
+        select * from  mybatis.blog
+        <where>
+            <if test="title != null">
+                 and title = #{title}
+            </if>
+            <if test="author != null">
+                and author = #{author}
+            </if>
+        </where>
+    </select>
+    <!--where choose when otherwise-->
+    <select id="queryBlogChoose" parameterType="map" resultType="Blog">
+        select * from blog
+        <where >
+            <choose>
+                <when test="title != null">
+                    title = #{title}
+                </when>
+                <when test="author != null">
+                    and author = #{author}
+                </when>
+                <otherwise>
+                    and views = #{views}
+                </otherwise>
+            </choose>
+        </where>
+    </select>
+<!--     parameterType：参数的类型，使用动态代理之后和方法的参数类型一致-->
+    <update id="updateBlog" parameterType="map">
+        update blog
+        <set>
+            <if test="title != null">
+                title = #{title},
+            </if>
+            <if test="author != null">
+                author = #{author},
+            </if>
+        </set>
+        where id = #{id}
+
+    </update>
+    <!--动态sql
+    /*我们现在传递一个万能的map 这map中可以存在一个集合
+     separator分隔符*/
+            -->
+    <select id="queryBlogForeach" parameterType="map" resultType="Blog">
+        select * from blog
+        <where>
+
+            <foreach collection="ids" item="id" open="and (" close=")" separator="or">
+                    id=#{id}
+            </foreach>
+        </where>
+    </select>
+</mapper>

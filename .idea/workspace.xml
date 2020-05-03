@@ -1,0 +1,441 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1519f55d-736f-4d3b-805b-49f530b321e3" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="@localhost [2]" type="feb32156:DbDataSourceImpl" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="@localhost [2]" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="@localhost [2]" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="smbms: schema" type="76f4a085:MysqlImplModel$Schema" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="@localhost [2]" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="smbms: schema" type="76f4a085:MysqlImplModel$Schema" />
+        <item name="smbms_user: table" type="285a2a93:MysqlImplModel$Table" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="@localhost [5]" type="feb32156:DbDataSourceImpl" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="Mybatis-Study" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="FxmlFile" />
+        <option value="Interface" />
+        <option value="AnnotationType" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <replaceStrings>
+      <replace />
+    </replaceStrings>
+    <dirStrings>
+      <dir>D:\IDEA项目\Mybatis-01\mybatis-10</dir>
+    </dirStrings>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="D:/Maven" />
+        <option name="userSettingsFile" value="D:\Maven\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1anHjxKgnOWzEYCE3tWVoo3E1DQ" />
+  <component name="ProjectViewState">
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="database.console.LAST_STATE" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../spring-study" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\IDEA项目\Mybatis-01\mybatis-14-test\src\main\java\com\rzk" />
+      <recent name="D:\IDEA项目\Mybatis-01\mybatis-14-test\src\test" />
+      <recent name="D:\IDEA项目\Mybatis-01\mybatis-02\src\main\resources\com\rzk\Mapper" />
+      <recent name="D:\IDEA项目\Mybatis-01\mybatis-09\src\main\resources\com\rzk\mapper" />
+      <recent name="D:\IDEA项目\Mybatis-01\mybatis-09\src\main\resources\com\rzk" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="rzk.mapper.provider" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.rzk.dao" />
+      <recent name="com.rzk.utils" />
+      <recent name="com.rzk.mapper.user" />
+      <recent name="com.rzk.mapper.role" />
+      <recent name="com.rzk.mapper.provider" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\IDEA项目\Mybatis-01\mybatis-14-test\src\main\resources" />
+      <recent name="D:\IDEA项目\Mybatis-01\mybatis-14-test\src\main\java\com\rzk\pojo" />
+      <recent name="D:\IDEA项目\Mybatis-01\mybatis-14-test\src\main\java\rzk\pojo" />
+      <recent name="D:\IDEA项目\Mybatis-01\mybatis-14-test\src\main\java" />
+      <recent name="D:\IDEA项目\Mybatis-01\mybatis-13\src\main\resources" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.MyTest.getRoleIdByUserInfo">
+    <configuration name="MyTest.getRoleIdByUserInfo" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="mybatis-14-test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.rzk.mapper.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.rzk.mapper" />
+      <option name="MAIN_CLASS_NAME" value="com.rzk.mapper.MyTest" />
+      <option name="METHOD_NAME" value="getRoleIdByUserInfo" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MyTest.insertSelective" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="mybatis-14-test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.rzk.mapper.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.rzk.mapper" />
+      <option name="MAIN_CLASS_NAME" value="com.rzk.mapper.MyTest" />
+      <option name="METHOD_NAME" value="insertSelective" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MyTest.selectByPrimaryKey" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="mybatis-14-test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.rzk.mapper.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.rzk.mapper" />
+      <option name="MAIN_CLASS_NAME" value="com.rzk.mapper.MyTest" />
+      <option name="METHOD_NAME" value="selectByPrimaryKey" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MyTest.updateByPrimaryKey" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="mybatis-14-test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.rzk.mapper.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.rzk.mapper" />
+      <option name="MAIN_CLASS_NAME" value="com.rzk.mapper.MyTest" />
+      <option name="METHOD_NAME" value="updateByPrimaryKey" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MyTest.updateByPrimaryKeySelective" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="mybatis-14-test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.rzk.mapper.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.rzk.mapper" />
+      <option name="MAIN_CLASS_NAME" value="com.rzk.mapper.MyTest" />
+      <option name="METHOD_NAME" value="updateByPrimaryKeySelective" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.MyTest.getRoleIdByUserInfo" />
+        <item itemvalue="JUnit.MyTest.updateByPrimaryKey" />
+        <item itemvalue="JUnit.MyTest.updateByPrimaryKeySelective" />
+        <item itemvalue="JUnit.MyTest.selectByPrimaryKey" />
+        <item itemvalue="JUnit.MyTest.insertSelective" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="StructureViewFactory">
+    <option name="AUTOSCROLL_MODE" value="false" />
+    <option name="AUTOSCROLL_FROM_SOURCE" value="true" />
+    <option name="ACTIVE_ACTIONS" value=",SHOW_INHERITED,SHOW_PROPERTIES,SHOW_ANONYMOUS" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1519f55d-736f-4d3b-805b-49f530b321e3" name="Default Changelist" comment="" />
+      <created>1584196747318</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1584196747318</updated>
+      <workItem from="1584196755145" duration="6566000" />
+      <workItem from="1584203522981" duration="6863000" />
+      <workItem from="1584322035071" duration="33000" />
+      <workItem from="1584377415612" duration="960000" />
+      <workItem from="1584408958479" duration="17809000" />
+      <workItem from="1584494964468" duration="24799000" />
+      <workItem from="1584538710099" duration="2210000" />
+      <workItem from="1584541001941" duration="2536000" />
+      <workItem from="1584581659368" duration="29845000" />
+      <workItem from="1584665909390" duration="14268000" />
+      <workItem from="1584756227859" duration="1832000" />
+      <workItem from="1584758174832" duration="1517000" />
+      <workItem from="1584767249401" duration="626000" />
+      <workItem from="1584785928238" duration="7275000" />
+      <workItem from="1584862770888" duration="10562000" />
+      <workItem from="1584929829125" duration="936000" />
+      <workItem from="1584930852396" duration="14793000" />
+      <workItem from="1585014247152" duration="26049000" />
+      <workItem from="1585070353769" duration="224000" />
+      <workItem from="1585553438670" duration="167000" />
+      <workItem from="1587364578684" duration="54000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="MyTest_updateByPrimaryKeySelective - 2020.03.24 at 19h 09m 49s.xml">
+      <configuration name="MyTest.updateByPrimaryKeySelective" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MyTest_updateByPrimaryKey - 2020.03.24 at 19h 16m 33s.xml">
+      <configuration name="MyTest.updateByPrimaryKey" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MyTest_updateByPrimaryKey - 2020.03.24 at 19h 17m 08s.xml">
+      <configuration name="MyTest.updateByPrimaryKey" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MyTest_updateByPrimaryKey - 2020.03.24 at 19h 17m 39s.xml">
+      <configuration name="MyTest.updateByPrimaryKey" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MyTest_updateByPrimaryKey - 2020.03.24 at 19h 18m 37s.xml">
+      <configuration name="MyTest.updateByPrimaryKey" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MyTest_updateByPrimaryKey - 2020.03.24 at 19h 20m 00s.xml">
+      <configuration name="MyTest.updateByPrimaryKey" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MyTest_updateByPrimaryKey - 2020.03.24 at 19h 20m 38s.xml">
+      <configuration name="MyTest.updateByPrimaryKey" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MyTest_getRoleIdByUserInfo - 2020.03.24 at 20h 13m 32s.xml">
+      <configuration name="MyTest.getRoleIdByUserInfo" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MyTest_getRoleIdByUserInfo - 2020.03.24 at 20h 15m 35s.xml">
+      <configuration name="MyTest.getRoleIdByUserInfo" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MyTest_getRoleIdByUserInfo - 2020.03.24 at 20h 16m 00s.xml">
+      <configuration name="MyTest.getRoleIdByUserInfo" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1252" y="336" key="FileChooserDialogImpl" timestamp="1587364623317">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="1252" y="336" key="FileChooserDialogImpl/0.0.1920.1050@0.0.1920.1050" timestamp="1587364623317" />
+    <state x="648" y="363" width="672" height="678" key="search.everywhere.popup" timestamp="1587364633768">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="648" y="363" width="672" height="678" key="search.everywhere.popup/0.0.1920.1050@0.0.1920.1050" timestamp="1587364633768" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/mybatis-08/src/test/java/com/rzk/dao/daoTest.java</url>
+          <line>25</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/mybatis-14-test/src/test/java/com/rzk/mapper/MyTest.java</url>
+          <line>96</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="JUnit">
+        <watch expression="((Class)((Method)((java.util.concurrent.ConcurrentHashMap.MapEntry)((java.util.concurrent.ConcurrentHashMap)((MapperProxy)this.h).methodCache).entrySet().toArray()[0]).getKey()).returnType).name" custom="java.lang.reflect.Proxy,java.util.concurrent.ConcurrentHashMap.MapEntry,org.apache.ibatis.binding.MapperProxy,java.lang.Class,java.lang.reflect.Method,java.util.concurrent.ConcurrentHashMap" />
+        <watch expression="((Class[])((Method)((java.util.concurrent.ConcurrentHashMap.MapEntry)((java.util.concurrent.ConcurrentHashMap)((MapperProxy)this.h).methodCache).entrySet().toArray()[0]).getKey()).parameterTypes)[0].name.value" custom="java.lang.reflect.Proxy,java.util.concurrent.ConcurrentHashMap.MapEntry,org.apache.ibatis.binding.MapperProxy,java.lang.Class[],java.lang.reflect.Method,java.util.concurrent.ConcurrentHashMap" />
+        <watch expression="this.h" custom="java.lang.reflect.Proxy" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <last-edited>Ajax:war</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.5" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>mybatis-14-test</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: javax.servlet:javax.servlet-api:4.0.1</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

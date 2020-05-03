@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE mapper
+        PUBLIC "-//mybatis.org//DTD Config 3.0//EN"
+        "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+
+<mapper namespace="com.rzk.mapper.TeacherMapper">
+    <!--查找-->
+    <select id="getTeacherById" resultType="Teacher">
+        select * from mybatis.teacher where id=#{id}
+    </select>
+    <!--插入-->
+    <insert id="addTeacher" parameterType="com.rzk.pojo.Teacher">
+        insert into mybatis.teacher(id, name)  values (#{id},#{name});
+    </insert>
+    <!--删除-->
+    <delete id="deleteTeacher" parameterType="com.rzk.pojo.Teacher">
+        delete from mybatis.teacher where id=#{id}
+    </delete>
+
+
+    <!--map修改-->
+    <update id="updateTeacherMap" parameterType="map">
+       update mybatis.teacher set name=#{name} where id=#{id}
+    </update>
+    <!--map插入-->
+    <insert id="addTeacherMap" parameterType="map">
+        insert into mybatis.teacher(id, name) values (#{tid},#{tname})
+    </insert>
+</mapper>
